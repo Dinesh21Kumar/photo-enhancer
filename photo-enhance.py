@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 #
-# @file: photo_enhance.py
+# @file: photo-enhance.py
 # @description: Enhance Multiple Images with special blending
 # @author: Loouis Low
 # @license: MIT
-# @copyright: Loouis Low <loouislow81.github.io>
 #
 
 from PIL import Image, ImageFilter, ImageEnhance, ImageDraw
