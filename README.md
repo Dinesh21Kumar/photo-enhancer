@@ -1,4 +1,4 @@
-# Passive Image Enhancer
+# Photo Enhancer
 
 > A mini function to enhance my friend's gallery photos on-the-go.
 
