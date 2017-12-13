@@ -23,7 +23,7 @@ $ sudo -H pip3 install -r requirements.txt
 
 #### Change to your image path or create new one.
 
-Edit `passive_image_enhancer.py` file and look for line as below, change the path.
+Edit `photo-enhance.py` file and look for line as below, change the path.
 
 ```python
 path = "/path/to/your/images/"
@@ -32,5 +32,5 @@ path = "/path/to/your/images/"
 #### Run the script.
 
 ```bash
-$ python3 photo-enhancer.py
+$ python3 photo-enhance.py
 ```
