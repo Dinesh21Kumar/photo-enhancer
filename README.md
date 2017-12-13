@@ -15,6 +15,8 @@ output = enhance3
 
 #### Install necessary components.
 
+You will need to have `Python3` and `pip3` installed.
+
 ```bash
 $ sudo -H pip3 install -r requirements.txt
 ```
