@@ -1,6 +1,6 @@
 # Passive Image Enhancer
 
-> A mini function to enhance my blog photos on the go.
+> A mini function to enhance my friend's gallery photos on-the-go.
 
 #### Concepts
 
