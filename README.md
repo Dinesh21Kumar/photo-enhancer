@@ -32,5 +32,5 @@ path = "/path/to/your/images/"
 #### Run the script.
 
 ```bash
-$ python3 passive_image_enhancer.py
+$ python3 photo-enhancer.py
 ```
